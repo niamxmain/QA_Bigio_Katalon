@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Current password cant be blank</name>
+   <tag></tag>
+   <elementGuidId>d51b7634-ea4d-4dd2-bc44-1aabbd1fc80b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='notice']/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.form-error__list-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>5b137653-221f-452a-8646-9b634d039336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-error__list-item</value>
+      <webElementGuid>ce898e94-d0ed-447d-a04a-ec694a457a01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        Current password can't be blank
+      </value>
+      <webElementGuid>09903cee-9356-4816-98b8-c0866d77b6f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;notice&quot;)/ul[@class=&quot;form-error__list&quot;]/li[@class=&quot;form-error__list-item&quot;]</value>
+      <webElementGuid>6a87d606-30d4-49fe-b174-021f0cc321d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='notice']/ul/li</value>
+      <webElementGuid>e2fac7b5-db07-4eb2-93cf-71d87c3b5811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li</value>
+      <webElementGuid>06cd62ec-b0f3-4884-94d8-3faeda6e9c06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = concat(&quot;
+        Current password can&quot; , &quot;'&quot; , &quot;t be blank
+      &quot;) or . = concat(&quot;
+        Current password can&quot; , &quot;'&quot; , &quot;t be blank
+      &quot;))]</value>
+      <webElementGuid>65880cdd-5598-428f-ace4-0055eca1d10e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

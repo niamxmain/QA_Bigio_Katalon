@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8f31ef95-af01-4af5-8723-c0fb43a60ef8</webElementGuid>
+      <webElementGuid>f7c6f56b-d189-4c95-ae47-09d8eabf0fae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>3cc315b4-7feb-4ef0-900f-21b748b031c1</webElementGuid>
+      <webElementGuid>66ec81c3-71d2-4347-a958-0548b6abfc98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button button-primary g-recaptcha</value>
-      <webElementGuid>60f5881f-acb8-4cdb-99d8-d2bd31018556</webElementGuid>
+      <webElementGuid>87e8ab38-20cf-4345-84e0-da6835ef6a9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-sitekey</name>
       <type>Main</type>
       <value>6LdhwsclAAAAAHilv5EFCsSoCU6bTSlfgfuMFlBm</value>
-      <webElementGuid>c36acbdd-7f31-42b3-86b3-bf853eef2d26</webElementGuid>
+      <webElementGuid>12d599b9-a1bd-4014-99b9-e819104fe37b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-callback</name>
       <type>Main</type>
       <value>onSubmit</value>
-      <webElementGuid>a8705f4f-18ea-4f3d-8970-fa4fa61284a6</webElementGuid>
+      <webElementGuid>31d01a74-be51-44d3-a415-25b096bf08ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,15 +64,15 @@
       <value>
     Sign in
   </value>
-      <webElementGuid>34a548f4-86fa-4242-b4e6-327459a350fb</webElementGuid>
+      <webElementGuid>165305a8-e2bf-4901-bb1c-f7bfd40acc15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;sign_in_339fcadde9&quot;)/div[@class=&quot;form__button-group&quot;]/button[@class=&quot;button button-primary g-recaptcha&quot;]</value>
-      <webElementGuid>e1de9859-7e5b-4731-a103-8f99b24cd814</webElementGuid>
+      <value>id(&quot;sign_in_92567646d2&quot;)/div[@class=&quot;form__button-group&quot;]/button[@class=&quot;button button-primary g-recaptcha&quot;]</value>
+      <webElementGuid>776bac71-2ea6-4b2d-b6b7-bf1ab3cf0c23</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -80,15 +80,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>958b3545-b597-4be6-a333-adabac3e5a12</webElementGuid>
+      <webElementGuid>9565189f-014d-4788-baa1-f8898e009ec1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='sign_in_339fcadde9']/div[5]/button</value>
-      <webElementGuid>eebd2e99-d85e-4ff1-85f0-c3b533773523</webElementGuid>
+      <value>//form[@id='sign_in_92567646d2']/div[5]/button</value>
+      <webElementGuid>851e61f7-eb8c-4327-92f5-0aec7904718d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/button</value>
-      <webElementGuid>80458fc3-9517-442a-a16a-23a02220626c</webElementGuid>
+      <webElementGuid>d613c27a-d73e-453a-af1c-603d1f28bc93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,6 +108,6 @@
   ' or . = '
     Sign in
   ')]</value>
-      <webElementGuid>4823263f-e555-41a4-90fd-cecc38fd5d21</webElementGuid>
+      <webElementGuid>33285d2a-1708-42b1-91e5-1ed75a51a5dc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

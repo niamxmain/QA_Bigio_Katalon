@@ -4,14 +4,31 @@
    <name>button_asep u</name>
    <tag></tag>
    <elementGuidId>69bddba9-e032-419f-bc50-d04a33254d51</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//li[2]/button</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>button.dropdown__toggle-button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+          asep u
+          
+          
+        ' or . = '
+          asep u
+          
+          
+        ')]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[2]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +39,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>624f147b-8aa2-4a75-aa60-4e318106e980</webElementGuid>
+      <webElementGuid>fd71b42e-a8e9-4024-857f-f241eaa2b977</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown__toggle-button</value>
-      <webElementGuid>5f45ba12-50f2-4d68-8618-c78bf3c36fb2</webElementGuid>
+      <webElementGuid>f513b72a-c778-45d0-83eb-5c14a54d94f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +55,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>3e59ceb3-045f-410a-9173-870e6b09c089</webElementGuid>
+      <webElementGuid>2e741c6c-3d66-4aeb-ae87-16076d6db573</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +63,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Toggle menu</value>
-      <webElementGuid>e20f19c3-0fc9-4bde-a3e4-bc3389079466</webElementGuid>
+      <webElementGuid>b180af76-25a6-4bf7-8a4e-e6d6eae40aba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +71,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>05be1c31-ff4e-4157-9cbe-43386d9cef51</webElementGuid>
+      <webElementGuid>5a7a7a75-3ccb-46dd-848c-7d7981363136</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +79,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>header-dropdown-menu</value>
-      <webElementGuid>24df7981-a7b3-4388-ba6b-be022ec9fab1</webElementGuid>
+      <webElementGuid>912f0302-d4a6-46bb-bb62-68669ac2673a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -74,7 +91,7 @@
           
           
         </value>
-      <webElementGuid>c7b6eefa-b52f-4302-8db2-cb50cf218c2b</webElementGuid>
+      <webElementGuid>e1217683-1640-4caf-961c-27b95e0f3f04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -84,7 +101,7 @@
       <value>/html[1]/body[@class=&quot;student-dashboard&quot;]/header[@class=&quot;header&quot;]/div[@class=&quot;header__container&quot;]/div[@class=&quot;header__wrapper&quot;]/nav[@class=&quot;header__nav hidden-print
 
   user-signed-in&quot;]/ul[1]/li[@class=&quot;dropdown header__nav-item&quot;]/button[@class=&quot;dropdown__toggle-button&quot;]</value>
-      <webElementGuid>a55cfa53-d1c1-4c12-ba29-38947cc74374</webElementGuid>
+      <webElementGuid>cb8ffa91-5d4b-43db-b5f9-28f1977f08a2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -92,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/button</value>
-      <webElementGuid>70c23cd2-d21d-4490-b2db-0a83884e17ce</webElementGuid>
+      <webElementGuid>a5bc771e-e899-4c0f-9b3d-d695ffb52e54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,6 +125,6 @@
           
           
         ')]</value>
-      <webElementGuid>e5bb92e1-e8fd-4117-8168-8ad33f1a7af1</webElementGuid>
+      <webElementGuid>25d5b904-a529-4375-828f-be5ec94338d0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

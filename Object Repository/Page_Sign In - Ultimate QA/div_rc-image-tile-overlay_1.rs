@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_rc-image-tile-overlay</name>
+   <name>div_rc-image-tile-overlay_1</name>
    <tag></tag>
    <elementGuidId>f007771e-e053-479e-bedc-50039c568035</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='rc-imageselect-target']/table/tbody/tr/td[3]/div/div/div</value>
+         <value>//div[@id='rc-imageselect-target']/table/tbody/tr[3]/td/div/div/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>tr:nth-of-type(3) > td.rc-imageselect-tile > div.rc-image-tile-target > div.rc-image-tile-wrapper > div.rc-image-tile-overlay</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>db53d2d9-cca7-4759-bf9f-e20c706741d6</webElementGuid>
+      <webElementGuid>ff168522-4968-4405-91b6-5f901bcedc4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,38 +30,38 @@
       <name>class</name>
       <type>Main</type>
       <value>rc-image-tile-overlay</value>
-      <webElementGuid>ecc3c476-08f5-4599-b6ed-fc577aba2680</webElementGuid>
+      <webElementGuid>63e64d12-016d-44ae-950b-8e819eb605e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;rc-imageselect-target&quot;)/table[@class=&quot;rc-imageselect-table-33&quot;]/tbody[1]/tr[1]/td[@class=&quot;rc-imageselect-tile&quot;]/div[@class=&quot;rc-image-tile-target&quot;]/div[@class=&quot;rc-image-tile-wrapper&quot;]/div[@class=&quot;rc-image-tile-overlay&quot;]</value>
-      <webElementGuid>2cffa87d-ae96-4ca9-ac26-9b949912c53e</webElementGuid>
+      <value>id(&quot;rc-imageselect-target&quot;)/table[@class=&quot;rc-imageselect-table-33&quot;]/tbody[1]/tr[3]/td[@class=&quot;rc-imageselect-tile&quot;]/div[@class=&quot;rc-image-tile-target&quot;]/div[@class=&quot;rc-image-tile-wrapper&quot;]/div[@class=&quot;rc-image-tile-overlay&quot;]</value>
+      <webElementGuid>7a2f5425-90dc-4268-a38c-45740a02d019</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Page_Sign In - Ultimate QA/iframe_c-yuninnhjrgs2</value>
-      <webElementGuid>78d4611f-b5d1-4444-9a4b-929bfdd82fda</webElementGuid>
+      <value>Object Repository/Page_Sign In - Ultimate QA/iframe_c-c10gatak67bs</value>
+      <webElementGuid>e4f6613b-c4a9-49e8-9943-d21ce3b8cffd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='rc-imageselect-target']/table/tbody/tr/td[3]/div/div/div</value>
-      <webElementGuid>7120940f-b1a2-47c2-ba2c-65185de852b9</webElementGuid>
+      <value>//div[@id='rc-imageselect-target']/table/tbody/tr[3]/td/div/div/div</value>
+      <webElementGuid>22eeb6df-e247-45c4-9cd7-2202fa77f2b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[3]/div/div/div</value>
-      <webElementGuid>b4b0eb8e-25b9-4cca-ae14-c25e60777a02</webElementGuid>
+      <value>//tr[3]/td/div/div/div</value>
+      <webElementGuid>3fd35fbc-49a7-4393-b5af-3a4a9b3aaeba</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

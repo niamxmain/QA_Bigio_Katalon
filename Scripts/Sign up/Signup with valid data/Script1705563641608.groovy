@@ -29,7 +29,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Create a new account - Ulti
 
 WebUI.setText(findTestObject('Object Repository/Page_Create a new account - Ultimate QA/input_userlast_name'), 'Doe')
 
-WebUI.setText(findTestObject('Object Repository/Page_Create a new account - Ultimate QA/input_useremail'), 'emailtesting@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_Create a new account - Ultimate QA/input_useremail'), 'emailbaruuji@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Create a new account - Ultimate QA/input_userpassword'), 'hUKwJTbofgPU9eVlw/CnDQ==')
 
@@ -37,21 +37,7 @@ WebUI.click(findTestObject('Object Repository/Page_Create a new account - Ultima
 
 WebUI.click(findTestObject('Object Repository/Page_Create a new account - Ultimate QA/button_Sign up'))
 
-WebUI.click(findTestObject('Object Repository/Page_Create a new account - Ultimate QA/img_rc-image-tile-33'))
-
-WebUI.click(findTestObject('Object Repository/Page_Create a new account - Ultimate QA/img_rc-image-tile-33'))
-
-WebUI.click(findTestObject('Object Repository/Page_Create a new account - Ultimate QA/img_rc-image-tile-33'))
-
-WebUI.click(findTestObject('Object Repository/Page_Create a new account - Ultimate QA/button_Verify'))
-
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_All Products - Ultimate QA/a_My Dashboard'))
-
-WebUI.click(findTestObject('Object Repository/Page_All Products - Ultimate QA/i_fa fa-caret-down'))
-
-WebUI.click(findTestObject('Object Repository/Page_All Products - Ultimate QA/a_Sign Out'))
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Ultimate QA/h2_Ultimate QA'))
 
 WebUI.closeBrowser()
 

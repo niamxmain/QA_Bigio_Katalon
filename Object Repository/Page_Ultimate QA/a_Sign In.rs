@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>630b4c0e-b43b-4864-a216-ce418200ed4f</webElementGuid>
+      <webElementGuid>0dc2e8ef-70ae-4d3a-bcef-277b84c87168</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/users/sign_in</value>
-      <webElementGuid>87a07b76-101b-412b-b7f4-f0c7e12cf05a</webElementGuid>
+      <webElementGuid>bb38ba78-ae66-47d3-a54e-a9043851a192</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,7 +40,7 @@
       <value>
           Sign In
         </value>
-      <webElementGuid>31155482-ec41-4e03-b28f-41bd0a2887c0</webElementGuid>
+      <webElementGuid>b51c36b7-09af-4895-bde0-f08e0a2117f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -48,7 +48,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;home-landing-page&quot;]/header[@class=&quot;header&quot;]/div[@class=&quot;header__container&quot;]/div[@class=&quot;header__wrapper&quot;]/nav[@class=&quot;header__nav hidden-print&quot;]/ul[1]/li[@class=&quot;header__nav-item header__nav-sign-in&quot;]/a[1]</value>
-      <webElementGuid>6d69d438-6746-46a9-83de-7b4705d94041</webElementGuid>
+      <webElementGuid>04f685e4-f837-4c14-9dab-c1275391da67</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Sign In')]</value>
-      <webElementGuid>33723c7c-9ff5-49b0-b266-17cec07c6881</webElementGuid>
+      <webElementGuid>dbc4038a-9d8e-4c1c-872e-ca755845e9b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/users/sign_in')]</value>
-      <webElementGuid>58534947-f54a-4626-8af0-9299aa49c7c2</webElementGuid>
+      <webElementGuid>30b7d090-5b87-466b-8963-52a5105c6f8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a</value>
-      <webElementGuid>febbd818-7b22-4384-9884-858d80369eaf</webElementGuid>
+      <webElementGuid>1f9a99c8-4382-44ef-8d8b-7c789dc2900b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,6 +84,6 @@
         ' or . = '
           Sign In
         ')]</value>
-      <webElementGuid>6eb26dbc-2613-4e70-9af6-8dda3ffee074</webElementGuid>
+      <webElementGuid>633d06c9-b029-47fd-a955-5af4acda3d9c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

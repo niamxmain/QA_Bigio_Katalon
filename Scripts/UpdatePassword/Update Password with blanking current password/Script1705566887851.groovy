@@ -31,39 +31,20 @@ WebUI.click(findTestObject('Object Repository/Page_Sign In - Ultimate QA/input_u
 
 WebUI.click(findTestObject('Object Repository/Page_Sign In - Ultimate QA/button_Sign in'))
 
-WebUI.click(findTestObject('Object Repository/Page_Sign In - Ultimate QA/img_rc-image-tile-44'))
-
-WebUI.click(findTestObject('Object Repository/Page_Sign In - Ultimate QA/img_rc-image-tile-44'))
-
-WebUI.click(findTestObject('Object Repository/Page_Sign In - Ultimate QA/img_rc-image-tile-44'))
-
-WebUI.click(findTestObject('Object Repository/Page_Sign In - Ultimate QA/img_rc-image-tile-44'))
-
-WebUI.click(findTestObject('Object Repository/Page_Sign In - Ultimate QA/button_Next'))
-
-WebUI.click(findTestObject('Object Repository/Page_Sign In - Ultimate QA/img_rc-image-tile-44_1'))
-
-WebUI.click(findTestObject('Object Repository/Page_Sign In - Ultimate QA/img_rc-image-tile-44_1'))
-
-WebUI.click(findTestObject('Object Repository/Page_Sign In - Ultimate QA/img_rc-image-tile-44_1'))
-
-WebUI.click(findTestObject('Object Repository/Page_Sign In - Ultimate QA/img_rc-image-tile-44_1'))
-
-WebUI.click(findTestObject('Object Repository/Page_Sign In - Ultimate QA/img_rc-image-tile-44_1'))
-
-WebUI.click(findTestObject('Object Repository/Page_Sign In - Ultimate QA/img_rc-image-tile-44_1'))
-
-WebUI.click(findTestObject('Object Repository/Page_Sign In - Ultimate QA/img_rc-image-tile-44_1'))
-
-WebUI.click(findTestObject('Object Repository/Page_Sign In - Ultimate QA/img_rc-image-tile-44_1'))
-
-WebUI.click(findTestObject('Object Repository/Page_Sign In - Ultimate QA/button_Verify'))
-
 WebUI.click(findTestObject('Object Repository/Page_My Dashboard - Ultimate QA/button_asep u'))
 
-WebUI.click(findTestObject('Object Repository/Page_My Dashboard - Ultimate QA/a_Sign Out'))
+WebUI.click(findTestObject('Object Repository/Page_My Dashboard - Ultimate QA/a_My Account'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Ultimate QA/h2_Ultimate QA'))
+WebUI.click(findTestObject('Object Repository/Page_Edit Profile - Ultimate QA/a_Password'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Password - Ultimate QA/input_userpassword'), 'hUKwJTbofgPU9eVlw/CnDQ==')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Password - Ultimate QA/input_userpassword_confirmation'), 
+    'hUKwJTbofgPU9eVlw/CnDQ==')
+
+WebUI.click(findTestObject('Object Repository/Page_Password - Ultimate QA/input_commit'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Password - Ultimate QA/li_Current password cant be blank'))
 
 WebUI.closeBrowser()
 

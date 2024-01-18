@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Successfully updated your password</name>
+   <tag></tag>
+   <elementGuidId>3a313e03-895c-404c-a65f-65b2c6323750</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='flash']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.message-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e3a9548e-9b95-411e-9f00-b81b6be7a6fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>message-text</value>
+      <webElementGuid>fc86ac67-48c7-437b-9868-0dd79131e57a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Successfully updated your password.</value>
+      <webElementGuid>ba40961e-225a-4678-a6ae-8ba2721390ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flash&quot;)/div[@class=&quot;col-md-12 message message-notice&quot;]/p[@class=&quot;message-text&quot;]</value>
+      <webElementGuid>5ad16ae9-9bfe-483a-87ae-03d65cb6aa1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='flash']/div/p</value>
+      <webElementGuid>77620ceb-9f0d-422c-84d2-1a5dd6e65190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>af4938a3-2277-4d00-a4e9-c37db2166eb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Successfully updated your password.' or . = 'Successfully updated your password.')]</value>
+      <webElementGuid>70de8af5-898d-418a-a3e0-d16f68d7e4fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

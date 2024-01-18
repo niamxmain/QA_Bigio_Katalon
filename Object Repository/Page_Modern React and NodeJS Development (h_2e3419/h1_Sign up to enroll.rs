@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Sign up to enroll</name>
+   <tag></tag>
+   <elementGuidId>c0bf32d7-ebd9-46ae-adbd-de01023f4174</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/section/div/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.h2.cart-info__page-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>6c2b64f5-5501-4d19-ae2b-5531ec3a867d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h2 cart-info__page-title</value>
+      <webElementGuid>c777e763-9c78-442b-bd7f-17b627124267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign up to enroll</value>
+      <webElementGuid>75ea2ff7-66bc-4a18-a743-ea1dbfb8933e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;split-view&quot;]/section[@class=&quot;split-view__item split-view__secondary&quot;]/div[@class=&quot;split-view__content split-view__secondary-content&quot;]/div[@class=&quot;split-view__secondary-inner&quot;]/div[@class=&quot;cart-info&quot;]/h1[@class=&quot;h2 cart-info__page-title&quot;]</value>
+      <webElementGuid>195d1698-1456-4332-afd7-62372e6c1224</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/section/div/div/div/h1</value>
+      <webElementGuid>d80360bb-7dad-4275-a2ae-2c43d7415794</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>f969411a-0365-49e5-a41c-9a0de08f4e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Sign up to enroll' or . = 'Sign up to enroll')]</value>
+      <webElementGuid>3b831f89-a6eb-4053-a81f-4db84a504a3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

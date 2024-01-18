@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Sign Out</name>
+   <name>a_Password</name>
    <tag></tag>
-   <elementGuidId>df0b0c2e-6d26-4883-8c4c-ddb6a6ed9d77</elementGuidId>
+   <elementGuidId>8d8b47f5-941b-4bb0-81b7-5a166b0cd9cb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//ul[@id='header-dropdown-menu']/li[4]/a</value>
+         <value>//a[contains(text(),'Password')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>nav.my-account__menu.hidden-print > ul > li:nth-of-type(2) > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>25985ea1-5c92-4638-a453-75fe741244b1</webElementGuid>
+      <webElementGuid>8eccb33e-2ac1-4318-a69f-8b5312488952</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/users/sign_out</value>
-      <webElementGuid>78e9bc38-c200-4e0b-845b-ff33ffc5a6c8</webElementGuid>
+      <value>/account/password</value>
+      <webElementGuid>ad660211-eb38-4634-8494-e4b599d5214b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,60 +38,52 @@
       <name>text</name>
       <type>Main</type>
       <value>
-      Sign Out
-    </value>
-      <webElementGuid>9d0fdbaf-0afc-446e-90b2-11b7ca9e8944</webElementGuid>
+        Password
+      </value>
+      <webElementGuid>0c19506c-72a1-441e-8b62-5d0b68f3f661</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;header-dropdown-menu&quot;)/li[@class=&quot;dropdown__menu-item&quot;]/a[1]</value>
-      <webElementGuid>5b2c0fb1-f3ee-4088-8794-d2291235b168</webElementGuid>
+      <value>/html[1]/body[@class=&quot;my-account-page&quot;]/div[@class=&quot;my-account&quot;]/div[@class=&quot;my-account__container&quot;]/div[@class=&quot;my-account__wrapper&quot;]/nav[@class=&quot;my-account__menu hidden-print&quot;]/ul[1]/li[2]/a[1]</value>
+      <webElementGuid>a3522609-2f61-473f-8250-d0227bf22514</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//ul[@id='header-dropdown-menu']/li[4]/a</value>
-      <webElementGuid>2b358cb5-d92d-4af5-a172-d0558dc623ab</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Sign Out')]</value>
-      <webElementGuid>b3747b45-825c-46b7-892f-01f7a74632ca</webElementGuid>
+      <value>//a[contains(text(),'Password')]</value>
+      <webElementGuid>f09c46b4-29e2-4a6a-8e23-a8a248ca1bbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/users/sign_out')]</value>
-      <webElementGuid>d1225d75-5f7b-4cde-bf84-64e9333a1da2</webElementGuid>
+      <value>//a[contains(@href, '/account/password')]</value>
+      <webElementGuid>e8ff025f-6121-492c-a294-b79541b2c996</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[4]/a</value>
-      <webElementGuid>400cd828-6a79-42b6-820a-e036a3ef6f46</webElementGuid>
+      <value>//nav/ul/li[2]/a</value>
+      <webElementGuid>0f80cbed-87c1-469e-81b8-0bcc48800a74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/users/sign_out' and (text() = '
-      Sign Out
-    ' or . = '
-      Sign Out
-    ')]</value>
-      <webElementGuid>260aa8cc-79ba-4149-bf28-08e7a48e607e</webElementGuid>
+      <value>//a[@href = '/account/password' and (text() = '
+        Password
+      ' or . = '
+        Password
+      ')]</value>
+      <webElementGuid>497d5305-ddda-4a2e-929e-363478ea2ba7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

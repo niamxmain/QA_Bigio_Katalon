@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Next</name>
+   <name>input_commit</name>
    <tag></tag>
-   <elementGuidId>1347e6e4-bf68-40f6-a1ed-b287e4b8ed70</elementGuidId>
+   <elementGuidId>883669be-4094-47ce-aa7b-9b94963a7d2a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='recaptcha-verify-button']</value>
+         <value>//input[@name='commit']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#recaptcha-verify-button</value>
+         <value>input[name=&quot;commit&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>bc579e9b-8d60-4754-9992-4c3d14970be9</webElementGuid>
+      <value>input</value>
+      <webElementGuid>e9d1d67e-f62e-4923-9146-703558cd2a54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>64860e2a-09df-4025-a3d7-75b8dfcbeaa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>commit</value>
+      <webElementGuid>5d6d2a9f-1764-4a1b-8fae-2e783f2b8c87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Update</value>
+      <webElementGuid>ab1aa65e-6fea-48ca-83ee-2f124a7f03e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>rc-button-default goog-inline-block</value>
-      <webElementGuid>26ce020d-612a-4afb-8f93-b254cd2b4a29</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>recaptcha-verify-button</value>
-      <webElementGuid>2312dce5-3ed3-4878-9ca5-eed5e88068e4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>bd04c0ae-c7c2-459e-a8c4-6b29dfe99c9c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Next</value>
-      <webElementGuid>f1ba0d0f-7d4f-4fed-a76d-a64096969dd5</webElementGuid>
+      <value>button button-primary</value>
+      <webElementGuid>a71917b4-999c-4b7a-93f1-bea85240ab3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;recaptcha-verify-button&quot;)</value>
-      <webElementGuid>537ac042-4552-48d7-807b-6c150b5fcecc</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/Page_Sign In - Ultimate QA/iframe_c-c10gatak67bs</value>
-      <webElementGuid>92c3354c-d357-495e-8d07-3e21b1894232</webElementGuid>
+      <value>id(&quot;my_account_password_af8b589e7a&quot;)/div[@class=&quot;form__button-group&quot;]/input[@class=&quot;button button-primary&quot;]</value>
+      <webElementGuid>996c32f9-f7b0-4d6f-9c46-a0a8d0398973</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='recaptcha-verify-button']</value>
-      <webElementGuid>3df8acff-3619-462b-b12a-96d09c9f705c</webElementGuid>
+      <value>//input[@name='commit']</value>
+      <webElementGuid>7a6ba468-370b-43df-aeb5-ba6c20578191</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='rc-imageselect']/div[3]/div[2]/div/div[2]/button</value>
-      <webElementGuid>4e568cb6-5b56-4751-8709-9f86c6211108</webElementGuid>
+      <value>//form[@id='my_account_password_af8b589e7a']/div[4]/input</value>
+      <webElementGuid>ab76eabd-538f-4252-8e44-358d0c6a122a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button</value>
-      <webElementGuid>7ac15681-0f00-49c7-bd6d-3d3a591e918a</webElementGuid>
+      <value>//div[4]/input</value>
+      <webElementGuid>dd23d929-11b7-45d2-b869-f29eb45b56c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'recaptcha-verify-button' and (text() = 'Next' or . = 'Next')]</value>
-      <webElementGuid>da1b8beb-ae2c-432d-8733-e346accb7dfa</webElementGuid>
+      <value>//input[@type = 'submit' and @name = 'commit']</value>
+      <webElementGuid>d8778ed2-9861-456f-9987-b002e1f605b6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

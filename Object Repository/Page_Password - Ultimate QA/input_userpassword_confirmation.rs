@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Next</name>
+   <name>input_userpassword_confirmation</name>
    <tag></tag>
-   <elementGuidId>1347e6e4-bf68-40f6-a1ed-b287e4b8ed70</elementGuidId>
+   <elementGuidId>2076ea6a-ef11-4775-a5eb-27eadcd83dae</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='recaptcha-verify-button']</value>
+         <value>//input[@id='user[password_confirmation]']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#recaptcha-verify-button</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>bc579e9b-8d60-4754-9992-4c3d14970be9</webElementGuid>
+      <value>input</value>
+      <webElementGuid>d5b5570d-0361-4c41-800d-1a6ca86c6dd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>type</name>
       <type>Main</type>
-      <value>rc-button-default goog-inline-block</value>
-      <webElementGuid>26ce020d-612a-4afb-8f93-b254cd2b4a29</webElementGuid>
+      <value>password</value>
+      <webElementGuid>34e2ab98-9e42-4237-9952-376df3f7a8c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>recaptcha-verify-button</value>
-      <webElementGuid>2312dce5-3ed3-4878-9ca5-eed5e88068e4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>bd04c0ae-c7c2-459e-a8c4-6b29dfe99c9c</webElementGuid>
+      <value>user[password_confirmation]</value>
+      <webElementGuid>0dcf79ce-4b47-4bdc-a83b-28b8ee860f31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>name</name>
       <type>Main</type>
-      <value>Next</value>
-      <webElementGuid>f1ba0d0f-7d4f-4fed-a76d-a64096969dd5</webElementGuid>
+      <value>user[password_confirmation]</value>
+      <webElementGuid>9fecc6d7-88e9-4ccd-b5d4-1471176ec255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form__control</value>
+      <webElementGuid>13330224-b1d0-4cae-8871-aec73b45174b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;recaptcha-verify-button&quot;)</value>
-      <webElementGuid>537ac042-4552-48d7-807b-6c150b5fcecc</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/Page_Sign In - Ultimate QA/iframe_c-c10gatak67bs</value>
-      <webElementGuid>92c3354c-d357-495e-8d07-3e21b1894232</webElementGuid>
+      <value>id(&quot;user[password_confirmation]&quot;)</value>
+      <webElementGuid>06d940cc-188c-4e17-8610-5da810340ba2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='recaptcha-verify-button']</value>
-      <webElementGuid>3df8acff-3619-462b-b12a-96d09c9f705c</webElementGuid>
+      <value>//input[@id='user[password_confirmation]']</value>
+      <webElementGuid>e744d1a6-04f9-4560-ae71-1fbbae8717e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='rc-imageselect']/div[3]/div[2]/div/div[2]/button</value>
-      <webElementGuid>4e568cb6-5b56-4751-8709-9f86c6211108</webElementGuid>
+      <value>//form[@id='my_account_password_af8b589e7a']/div[2]/input</value>
+      <webElementGuid>102e5dd2-2d57-43e6-bd77-9840ffcd6101</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button</value>
-      <webElementGuid>7ac15681-0f00-49c7-bd6d-3d3a591e918a</webElementGuid>
+      <value>//div[2]/input</value>
+      <webElementGuid>5a4ec0ed-439b-46de-a7af-b2e70076967c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'recaptcha-verify-button' and (text() = 'Next' or . = 'Next')]</value>
-      <webElementGuid>da1b8beb-ae2c-432d-8733-e346accb7dfa</webElementGuid>
+      <value>//input[@type = 'password' and @id = 'user[password_confirmation]' and @name = 'user[password_confirmation]']</value>
+      <webElementGuid>07265f23-4664-44f4-914c-d92664accbdf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

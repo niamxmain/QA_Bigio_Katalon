@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>044a16f5-f370-4076-ba41-6d5a75822207</webElementGuid>
+      <webElementGuid>d39624bf-2cef-43e7-8643-40f6d76c2f64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>rc-button-default goog-inline-block</value>
-      <webElementGuid>a8b14895-7e05-4e39-939b-5bb61f70ac6b</webElementGuid>
+      <webElementGuid>4f2e8d2d-e76f-4f14-9184-82cf77c19a03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>recaptcha-verify-button</value>
-      <webElementGuid>4af9eb3a-a741-4b8f-a27b-3d5f7b70c284</webElementGuid>
+      <webElementGuid>5a566c3d-66c6-45f7-aff9-946838683103</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>b95468f1-2b96-4464-b50f-4a397f37771d</webElementGuid>
+      <webElementGuid>8fa338cb-a4fb-4948-b14c-710f56e42035</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Verify</value>
-      <webElementGuid>81aa8d80-281a-46d8-92e0-d9ee0e0bd451</webElementGuid>
+      <webElementGuid>45d2411e-2d30-420a-b87e-8b59385cf6a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,15 +62,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;recaptcha-verify-button&quot;)</value>
-      <webElementGuid>66c51df4-e334-436a-9c1b-7b123b71f98b</webElementGuid>
+      <webElementGuid>a1bb314d-1027-4aa5-8c91-fae66e3aec3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Page_Sign In - Ultimate QA/iframe_c-yuninnhjrgs2</value>
-      <webElementGuid>b4cba32b-ef21-4285-ab49-9535d325dc44</webElementGuid>
+      <value>Object Repository/Page_Sign In - Ultimate QA/iframe_c-c10gatak67bs</value>
+      <webElementGuid>2c424f4a-523d-4fb8-ac16-504e13318f3a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='recaptcha-verify-button']</value>
-      <webElementGuid>3a0a413f-6a04-4cad-8d2b-b652d3dc09ca</webElementGuid>
+      <webElementGuid>bb96a675-c925-4368-afae-36e54f2b2930</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='rc-imageselect']/div[3]/div[2]/div/div[2]/button</value>
-      <webElementGuid>0c576d6d-3b83-4151-9d91-227ce3c85841</webElementGuid>
+      <webElementGuid>c0dc093f-3009-4821-9f90-0ac44af7d6a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>f5f8b328-a8b3-480e-976a-a6478cd82b09</webElementGuid>
+      <webElementGuid>c5847155-eff2-4fb7-89ae-bf7bdb365193</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'recaptcha-verify-button' and (text() = 'Verify' or . = 'Verify')]</value>
-      <webElementGuid>8906a694-0af7-453e-a4d8-bcdb896d9015</webElementGuid>
+      <webElementGuid>127027ee-2e4f-488b-979a-ad2f92219123</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check course without login-TS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9444525b-63ee-48da-9f45-eea903602001</testCaseGuid>
+</TestCaseEntity>
