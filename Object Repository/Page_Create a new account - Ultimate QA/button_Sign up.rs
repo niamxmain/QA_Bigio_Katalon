@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign up</name>
+   <tag></tag>
+   <elementGuidId>8b24f155-e9c1-40df-a983-82025f1d3919</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.button-primary.g-recaptcha</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1d68921b-e455-4c0d-a103-e8c381f2d847</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>eea7bb01-f6ff-4caa-b515-38044087d679</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button-primary g-recaptcha</value>
+      <webElementGuid>7dfbc32a-5ced-40f9-addb-801b5a0953ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sitekey</name>
+      <type>Main</type>
+      <value>6LdhwsclAAAAAHilv5EFCsSoCU6bTSlfgfuMFlBm</value>
+      <webElementGuid>abc6fd34-0443-4678-a718-bc9d2eb71881</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-callback</name>
+      <type>Main</type>
+      <value>onSubmit</value>
+      <webElementGuid>1aa57c00-2815-4483-981e-6fe6c8ec4d7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Sign up
+  </value>
+      <webElementGuid>c1dc5f1d-fe03-4e72-b55a-f2bfde92244c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sign_up_9cf2b16db7&quot;)/div[@class=&quot;form__button-group&quot;]/button[@class=&quot;button button-primary g-recaptcha&quot;]</value>
+      <webElementGuid>9e1172a1-4924-49d1-b32a-16529980bd75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>d7147b09-c952-4a8d-9e18-d221c9aa0169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='sign_up_9cf2b16db7']/div[6]/button</value>
+      <webElementGuid>38e0ec94-b95a-43ae-8792-2b3945ba5f7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>970b4982-3cc6-4c94-8bde-1dbe299ca91b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = '
+    Sign up
+  ' or . = '
+    Sign up
+  ')]</value>
+      <webElementGuid>1b79c25e-cac1-4cc3-a859-d7d7e0f4c920</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
